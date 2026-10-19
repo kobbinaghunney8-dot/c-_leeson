@@ -10,7 +10,7 @@ professional software engineer.
 
 ## 📌 Repository
 
-- **GitHub:** https://github.com/YOUR_USERNAME/cpp_lesson
+- **GitHub:** Your repository: kobbinaghunney8-dot/
 - **Language:** C++
 - **Compiler:** Clang++
 - **Editor:** Neovim
