@@ -29,6 +29,8 @@ int main() {
   } else if (op == '%') {
     result = num1 % num2;
     cout << "===> " << result << endl;
+  } else {
+    cout << "Invalid Input";
   }
 
   return 0;
